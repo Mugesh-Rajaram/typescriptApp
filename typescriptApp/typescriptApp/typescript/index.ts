@@ -4,6 +4,6 @@
     alert(name)
 }
 
-class clsNew1 {
+class clsNew {
 
 }

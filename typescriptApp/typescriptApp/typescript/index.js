@@ -3,9 +3,9 @@ function getName() {
     console.log(name);
     alert(name);
 }
-var clsNew1 = (function () {
-    function clsNew1() {
+var clsNew = (function () {
+    function clsNew() {
     }
-    return clsNew1;
+    return clsNew;
 }());
 //# sourceMappingURL=index.js.map

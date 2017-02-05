@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿class clsNew {
         strName: Object;
     //constructor() {
@@ -7,6 +8,16 @@
     //    //        address: 'Namakkal'
     //    //};
     //}
+=======
+﻿//function getName(): void {
+//    let name: string = 'Mugesh'
+//    console.log(name)
+//    alert(name)
+//}
+
+class clsNew {
+    strName: Object;
+>>>>>>> refs/remotes/origin/NewBranch
     getName() {
         console.log(this.strName[0])
         alert(this.strName[1])
@@ -14,7 +25,7 @@
 }
 
 function f(condition, x) {
-    
+
     if (condition) {
         let x = 100;
         return x;

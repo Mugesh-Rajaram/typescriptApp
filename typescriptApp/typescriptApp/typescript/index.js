@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var clsNew = (function () {
     function clsNew() {
     }
@@ -7,6 +8,16 @@ var clsNew = (function () {
     //    //        address: 'Namakkal'
     //    //};
     //}
+=======
+//function getName(): void {
+//    let name: string = 'Mugesh'
+//    console.log(name)
+//    alert(name)
+//}
+var clsNew = (function () {
+    function clsNew() {
+    }
+>>>>>>> refs/remotes/origin/NewBranch
     clsNew.prototype.getName = function () {
         console.log(this.strName[0]);
         alert(this.strName[1]);

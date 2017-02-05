@@ -3,7 +3,7 @@
 //    console.log(name)
 //    alert(name)
 //}
-
+hgfh
 
 class clsNew {
         strName: Object;

@@ -1,10 +1,4 @@
-﻿//function getName(): void {
-//    let name: string = 'Mugesh'
-//    console.log(name)
-//    alert(name)
-//}
-
-class clsNew {
+﻿class clsNew {
     strName: Object;
     getName() {
         console.log(this.strName[0])

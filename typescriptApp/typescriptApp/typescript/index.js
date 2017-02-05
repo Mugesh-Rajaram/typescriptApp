@@ -1,8 +1,3 @@
-//function getName(): void {
-//    let name: string = 'Mugesh'
-//    console.log(name)
-//    alert(name)
-//}
 var clsNew = (function () {
     function clsNew() {
     }

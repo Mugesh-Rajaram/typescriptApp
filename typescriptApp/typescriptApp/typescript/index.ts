@@ -4,6 +4,7 @@
 //    alert(name)
 //}
 
+
 class clsNew {
         strName: Object;
     //constructor() {

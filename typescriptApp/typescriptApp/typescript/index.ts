@@ -6,14 +6,7 @@
 
 
 class clsNew {
-        strName: Object;
-    //constructor() {
-    //    //this.strName['name'] = 'Mugesh'
-
-    //    //    age: '26',
-    //    //        address: 'Namakkal'
-    //    //};
-    //}
+    strName: Object;
     getName() {
         console.log(this.strName[0])
         alert(this.strName[1])
@@ -21,7 +14,7 @@ class clsNew {
 }
 
 function f(condition, x) {
-    
+
     if (condition) {
         let x = 100;
         return x;

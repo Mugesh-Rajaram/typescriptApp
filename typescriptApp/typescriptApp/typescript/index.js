@@ -6,12 +6,6 @@
 var clsNew = (function () {
     function clsNew() {
     }
-    //constructor() {
-    //    //this.strName['name'] = 'Mugesh'
-    //    //    age: '26',
-    //    //        address: 'Namakkal'
-    //    //};
-    //}
     clsNew.prototype.getName = function () {
         console.log(this.strName[0]);
         alert(this.strName[1]);
